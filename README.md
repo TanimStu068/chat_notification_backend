@@ -6,7 +6,6 @@ This is the backend repository for **ChatHub**, a real-time chat application bui
 
 ## Features
 
-- **Real-Time Chat**: Send and receive messages instantly.
 - **Real-Time Notifications**: Push notifications for messages and calls.
 ---
 
