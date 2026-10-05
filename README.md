@@ -9,5 +9,10 @@ This is the backend repository for **ChatHub**, a real-time chat application bui
 - **Real-Time Notifications**: Push notifications for messages and calls.
 ---
 
-## Folder Structure
+## License
 
+This project is currently not licensed for reuse, modification,
+or redistribution. All rights reserved by the project author.
+
+Please do not copy, modify, distribute, or use this project
+without permission.
